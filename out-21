@@ -1,0 +1,617 @@
+Warning: Module 0: i8UnbY1sgt7uH redefinition ignored
+Warning: Module 2: l8I8WC redefinition ignored
+SymTable:
+l8I8WC=86 Error: This variable is multiple times defined; first value used
+i8UnbY1sgt7uH=417 Error: This variable is multiple times defined; first value used
+qfDIRSJDr=229
+kVW3eoK=424
+xBqZfNb3=416
+sJaTIMiHRvsGod=266
+lKnhO26tz3=198
+dbjl15Nmgi=414
+lmEUobZp=381
+xAZix=138
+x0xSkEFlANqW3G6d=337
+rkgbWHWuUOpGN=25
+ygcCxSLdyE=328
+ej8V92q=462
+tsqr72bHOTViZ0=454
+ne2KbZ0JGsGSJSko=456
+dWEZ=456
+mEeme0sJgQlzK=473
+w=468
+hiz=475
+w6JwFUBxF=468
+d9gik=471
+imfXoCd=472
+dKiXTXUvoLl=474
+gCUkDaCj=501
+zQoBMqATui38Z=492
+qoxJ=502
+ttPa=507
+uwebjT4RT=492
+kxAnq=502
+pa=503
+i=492
+pFnk=509
+nuODRpLbBVzQ=498
+la4yKsQq=497
+up4R3V=510
+fZz8=501
+t=509
+aVoT9mmQr748zX=505
+
+BinaryCode:
+000: 0036
+001: 0021
+002: 6129
+003: 0000 Error: Illegal module operand ; treated as module=0
+004: 1373
+005: 7009
+006: 7000 Error: aB4GWC is not defined; zero used
+007: 5113
+008: 0491
+009: 0369
+010: 2231
+011: 8488
+012: 0046
+013: 9314
+014: 2362
+015: 3183
+016: 5379
+017: 4254
+018: 7115
+019: 7000 Error: Illegal module operand ; treated as module=0
+020: 6135
+021: 0000 Error: Illegal module operand ; treated as module=0
+022: 1467
+023: 6471
+024: 1000 Error: Illegal module operand ; treated as module=0
+025: 2121
+026: 5449
+027: 2000 Error: Illegal module operand ; treated as module=0
+028: 9412
+029: 4286
+030: 0374
+031: 0000 Error: Absolute address exceeds machine size; zero used
+032: 0162
+033: 2340
+034: 8219
+035: 0291
+036: 1000 Error: am is not defined; zero used
+037: 8000 Error: Illegal module operand ; treated as module=0
+038: 1055
+039: 7439
+040: 0361
+041: 4355
+042: 7000 Error: Illegal module operand ; treated as module=0
+043: 1140
+044: 2000 Error: am is not defined; zero used
+045: 4000 Error: aB4GWC is not defined; zero used
+046: 1033
+047: 5228
+048: 0244
+049: 9000 Error: aB4GWC is not defined; zero used
+050: 0798
+051: 2488
+052: 1106
+053: 7477
+054: 8222
+055: 6000 Error: Illegal module operand ; treated as module=0
+056: 2000 Error: Illegal module operand ; treated as module=0
+057: 3000 Error: Illegal module operand ; treated as module=0
+058: 1000 Error: Relative address exceeds module size; relative zero used
+059: 8211
+060: 1443
+061: 8000 Error: Relative address exceeds module size; relative zero used
+062: 8000 Error: Illegal module operand ; treated as module=0
+063: 6477
+064: 9000 Error: aB4GWC is not defined; zero used
+065: 3000 Error: am is not defined; zero used
+066: 7000 Error: Illegal module operand ; treated as module=0
+067: 2257
+068: 4100
+069: 0447
+070: 0000 Error: aB4GWC is not defined; zero used
+071: 6000 Error: Illegal module operand ; treated as module=0
+072: 9000 Error: Illegal module operand ; treated as module=0
+073: 5288
+074: 5313
+075: 9000 Error: Illegal module operand ; treated as module=0
+076: 5291
+077: 8330
+078: 8000 Error: aB4GWC is not defined; zero used
+079: 1000 Error: Illegal module operand ; treated as module=0
+080: 4030
+081: 0087
+082: 2000 Error: Illegal module operand ; treated as module=0
+083: 4000 Error: aB4GWC is not defined; zero used
+084: 0275
+085: 2000 Error: Illegal module operand ; treated as module=0
+086: 1000 Error: Illegal module operand ; treated as module=0
+087: 5000 Error: Illegal module operand ; treated as module=0
+088: 2152
+089: 0000 Error: Absolute address exceeds machine size; zero used
+090: 8000 Error: am is not defined; zero used
+091: 0171
+092: 1509
+093: 6000 Error: Illegal module operand ; treated as module=0
+094: 3163
+095: 6080
+096: 3414
+097: 7204
+098: 8000 Error: aB4GWC is not defined; zero used
+099: 0999 Error: Illegal immediate operand; treated as 999
+100: 6000 Error: Illegal module operand ; treated as module=0
+101: 0483
+102: 4254
+103: 2428
+104: 6000 Error: aB4GWC is not defined; zero used
+105: 4000 Error: am is not defined; zero used
+106: 7000 Error: Illegal module operand ; treated as module=0
+107: 8488
+108: 7325
+109: 6409
+110: 2000 Error: Illegal module operand ; treated as module=0
+111: 0335
+112: 0714
+113: 4210
+114: 1000 Error: am is not defined; zero used
+115: 8357
+116: 2000 Error: aB4GWC is not defined; zero used
+117: 9258
+118: 6467
+119: 6000 Error: aB4GWC is not defined; zero used
+120: 3398
+121: 8000 Error: Illegal module operand ; treated as module=0
+122: 9362
+123: 3379
+124: 4000 Error: Illegal module operand ; treated as module=0
+125: 2000 Error: aB4GWC is not defined; zero used
+126: 6102
+127: 8000 Error: Illegal module operand ; treated as module=0
+128: 4000 Error: aB4GWC is not defined; zero used
+129: 7221
+130: 9000 Error: Illegal module operand ; treated as module=0
+131: 6308
+132: 7000 Error: Illegal module operand ; treated as module=0
+133: 5000 Error: aB4GWC is not defined; zero used
+134: 4000 Error: Illegal module operand ; treated as module=0
+135: 7000 Error: aB4GWC is not defined; zero used
+136: 2000 Error: Illegal module operand ; treated as module=0
+137: 0000 Error: Illegal module operand ; treated as module=0
+138: 4234
+139: 0133
+140: 3000 Error: Illegal module operand ; treated as module=0
+141: 0354
+142: 5130
+143: 3000 Error: aB4GWC is not defined; zero used
+144: 1000 Error: aB4GWC is not defined; zero used
+145: 3000 Error: aB4GWC is not defined; zero used
+146: 0000 Error: Absolute address exceeds machine size; zero used
+147: 1000 Error: am is not defined; zero used
+148: 2109
+149: 5000 Error: am is not defined; zero used
+150: 3456
+151: 9239
+152: 9506
+153: 5200
+154: 8000 Error: Relative address exceeds module size; relative zero used
+155: 5000 Error: Illegal module operand ; treated as module=0
+156: 0013
+157: 8260
+158: 7000 Error: Illegal module operand ; treated as module=0
+159: 2324
+160: 0000 Error: Absolute address exceeds machine size; zero used
+161: 8394
+162: 8071
+163: 9417
+164: 8000 Error: am is not defined; zero used
+165: 1075
+166: 4467
+167: 5293
+168: 8384
+169: 2000 Error: am is not defined; zero used
+170: 9999 Error: Illegal opcode; treated as 9999
+171: 8000 Error: Illegal module operand ; treated as module=0
+172: 9445
+173: 0325
+174: 9236
+175: 5159
+176: 2000 Error: aB4GWC is not defined; zero used
+177: 7000 Error: Illegal module operand ; treated as module=0
+178: 2000 Error: Illegal module operand ; treated as module=0
+179: 1000 Error: aB4GWC is not defined; zero used
+180: 9449
+181: 4283
+182: 5000 Error: aB4GWC is not defined; zero used
+183: 5145
+184: 4409
+185: 9000 Error: am is not defined; zero used
+186: 1397
+187: 6206
+188: 7498
+189: 3000 Error: am is not defined; zero used
+190: 0000 Error: am is not defined; zero used
+191: 3000 Error: aB4GWC is not defined; zero used
+192: 0089
+193: 5013
+194: 9404
+195: 3000 Error: am is not defined; zero used
+196: 6000 Error: Illegal module operand ; treated as module=0
+197: 6104
+198: 3120
+199: 0000 Error: Absolute address exceeds machine size; zero used
+200: 0068
+201: 3488
+202: 1442
+203: 8000 Error: Illegal module operand ; treated as module=0
+204: 3271
+205: 7000 Error: Illegal module operand ; treated as module=0
+206: 3000 Error: am is not defined; zero used
+207: 4466
+208: 9289
+209: 9422
+210: 6000 Error: Illegal module operand ; treated as module=0
+211: 8348
+212: 8000 Error: am is not defined; zero used
+213: 8228
+214: 9133
+215: 2198
+216: 1000 Error: Illegal module operand ; treated as module=0
+217: 6000 Error: am is not defined; zero used
+218: 0000 Error: aB4GWC is not defined; zero used
+219: 7337
+220: 7000 Error: aB4GWC is not defined; zero used
+221: 0393
+222: 8333
+223: 8000 Error: am is not defined; zero used
+224: 1133
+225: 0440
+226: 4443
+227: 4000 Error: am is not defined; zero used
+228: 0297
+229: 3000
+230: 6312
+231: 4394
+232: 7447
+233: 2000 Error: aB4GWC is not defined; zero used
+234: 8000 Error: Illegal module operand ; treated as module=0
+235: 5000 Error: am is not defined; zero used
+236: 0000 Error: Illegal module operand ; treated as module=0
+237: 0423
+238: 1232
+239: 4000 Error: Illegal module operand ; treated as module=0
+240: 0000 Error: Illegal module operand ; treated as module=0
+241: 0498
+242: 8000 Error: Illegal module operand ; treated as module=0
+243: 5197
+244: 5438
+245: 1029
+246: 4268
+247: 4280
+248: 5414
+249: 0416
+250: 1125
+251: 8268
+252: 8199
+253: 6000 Error: Illegal module operand ; treated as module=0
+254: 2387
+255: 3000 Error: Illegal module operand ; treated as module=0
+256: 0162
+257: 5279
+258: 1000 Error: aB4GWC is not defined; zero used
+259: 1000 Error: External operand exceeds length of uselist; treated as relative=0
+260: 8000 Error: Illegal module operand ; treated as module=0
+261: 6000 Error: am is not defined; zero used
+262: 1000 Error: Illegal module operand ; treated as module=0
+263: 9999 Error: Illegal opcode; treated as 9999
+264: 1367
+265: 5276
+266: 8000
+267: 8412
+268: 2000 Error: Illegal module operand ; treated as module=0
+269: 8000 Error: am is not defined; zero used
+270: 9000 Error: Illegal module operand ; treated as module=0
+271: 1374
+272: 6237
+273: 3000 Error: am is not defined; zero used
+274: 7224
+275: 7000 Error: Illegal module operand ; treated as module=0
+276: 0026
+277: 5236
+278: 0285
+279: 5318
+280: 2125
+281: 7467
+282: 6194
+283: 8429
+284: 2125
+285: 4381
+286: 2261
+287: 6422
+288: 2116
+289: 5000 Error: am is not defined; zero used
+290: 9999 Error: Illegal opcode; treated as 9999
+291: 7236
+292: 1405
+293: 3429
+294: 0265
+295: 0103
+296: 4000 Error: aB4GWC is not defined; zero used
+297: 3000 Error: Illegal module operand ; treated as module=0
+298: 5000 Error: am is not defined; zero used
+299: 9999 Error: Illegal opcode; treated as 9999
+300: 7000 Error: am is not defined; zero used
+301: 2183
+302: 2000 Error: aB4GWC is not defined; zero used
+303: 8000 Error: am is not defined; zero used
+304: 1506
+305: 0000 Error: Illegal module operand ; treated as module=0
+306: 0361
+307: 9257
+308: 8491
+309: 2468
+310: 2449
+311: 6000 Error: aB4GWC is not defined; zero used
+312: 8106
+313: 7301
+314: 4218
+315: 9036
+316: 4000 Error: Illegal module operand ; treated as module=0
+317: 0000 Error: Relative address exceeds module size; relative zero used
+318: 2191
+319: 3311
+320: 3302
+321: 8467
+322: 3000 Error: External operand exceeds length of uselist; treated as relative=0
+323: 1143
+324: 0293
+325: 7000 Error: Illegal module operand ; treated as module=0
+326: 9000 Error: External operand exceeds length of uselist; treated as relative=0
+327: 8478
+328: 7000 Error: aB4GWC is not defined; zero used
+329: 9000 Error: Illegal module operand ; treated as module=0
+330: 8000 Error: aB4GWC is not defined; zero used
+331: 2491
+332: 2000 Error: Illegal module operand ; treated as module=0
+333: 2182
+334: 9999 Error: Illegal opcode; treated as 9999
+335: 3153
+336: 3217
+337: 7308
+338: 7000 Error: Illegal module operand ; treated as module=0
+339: 5000 Error: Illegal module operand ; treated as module=0
+340: 7249
+341: 8239
+342: 0186
+343: 6999 Error: Illegal immediate operand; treated as 999
+344: 1455
+345: 3131
+346: 4113
+347: 9144
+348: 0000 Error: aB4GWC is not defined; zero used
+349: 9380
+350: 6287
+351: 2027
+352: 6406
+353: 9135
+354: 0999 Error: Illegal immediate operand; treated as 999
+355: 8271
+356: 0499
+357: 1282
+358: 4248
+359: 3000 Error: Illegal module operand ; treated as module=0
+360: 0311
+361: 0761
+362: 8000 Error: Illegal module operand ; treated as module=0
+363: 2000 Error: aB4GWC is not defined; zero used
+364: 0000 Error: am is not defined; zero used
+365: 4418
+366: 4467
+367: 4477
+368: 6000 Error: am is not defined; zero used
+369: 0015
+370: 2000 Error: Illegal module operand ; treated as module=0
+371: 5465
+372: 9000 Error: am is not defined; zero used
+373: 0000 Error: Absolute address exceeds machine size; zero used
+374: 3130
+375: 2267
+376: 6000 Error: am is not defined; zero used
+377: 5070
+378: 1000 Error: Illegal module operand ; treated as module=0
+379: 3462
+380: 9258
+381: 8079
+382: 0475
+383: 5216
+384: 7024
+385: 1000 Error: am is not defined; zero used
+386: 6442
+387: 7083
+388: 0294
+389: 6432
+390: 5230
+391: 7000 Error: Illegal module operand ; treated as module=0
+392: 4235
+393: 6000 Error: Illegal module operand ; treated as module=0
+394: 5262
+395: 4000 Error: Illegal module operand ; treated as module=0
+396: 7294
+397: 4000 Error: aB4GWC is not defined; zero used
+398: 0420
+399: 8188
+400: 7456
+401: 0386
+402: 0000 Error: Illegal module operand ; treated as module=0
+403: 6504
+404: 9000 Error: am is not defined; zero used
+405: 0000 Error: aB4GWC is not defined; zero used
+406: 9000 Error: Illegal module operand ; treated as module=0
+407: 0387
+408: 4000 Error: am is not defined; zero used
+409: 2000 Error: Illegal module operand ; treated as module=0
+410: 9341
+411: 5000 Error: Illegal module operand ; treated as module=0
+412: 1259
+413: 1000 Error: aB4GWC is not defined; zero used
+414: 7160
+415: 0000 Error: Absolute address exceeds machine size; zero used
+416: 2449
+417: 4456
+418: 1062
+419: 0359
+420: 1173
+421: 8000 Error: aB4GWC is not defined; zero used
+422: 8000 Error: aB4GWC is not defined; zero used
+423: 5367
+424: 0000 Error: Illegal module operand ; treated as module=0
+425: 5510
+426: 4000 Error: aB4GWC is not defined; zero used
+427: 6000 Error: am is not defined; zero used
+428: 5224
+429: 7458
+430: 2119
+431: 0360
+432: 9256
+433: 7000 Error: Illegal module operand ; treated as module=0
+434: 3000 Error: am is not defined; zero used
+435: 9327
+436: 6164
+437: 3099
+438: 4000 Error: am is not defined; zero used
+439: 1331
+440: 4338
+441: 4365
+442: 0273
+443: 1146
+444: 0395
+445: 0037
+446: 3140
+447: 7000 Error: Illegal module operand ; treated as module=0
+448: 7000 Error: aB4GWC is not defined; zero used
+449: 9999 Error: Illegal opcode; treated as 9999
+450: 9000
+451: 5458
+452: 5000 Error: y7dKx81pfwsWk is not defined; zero used
+453: 5000 Error: qyYsPxG is not defined; zero used
+454: 1000 Error: Illegal module operand ; treated as module=0
+455: 9000 Error: qyYsPxG is not defined; zero used
+456: 8000 Error: k8 is not defined; zero used
+457: 2000 Error: Illegal module operand ; treated as module=0
+458: 4000 Error: bNKB is not defined; zero used
+459: 1455
+460: 1210
+461: 7458
+462: 3219
+463: 0465
+464: 5000 Error: i4ftpdMD4eeMZlDG is not defined; zero used
+465: 8405
+466: 0456
+Warning: Module 1: uselist[0]=cNa42DiGsK was not used
+Warning: Module 1: uselist[3]=bmhzfCDi6 was not used
+Warning: Module 1: uselist[4]=kioucmrcSVIE8d was not used
+Warning: Module 1: uselist[5]=l3g was not used
+Warning: Module 1: uselist[7]=g9 was not used
+Warning: Module 1: uselist[9]=tA16wXS6Y was not used
+Warning: Module 1: uselist[11]=mGDPGGFXd was not used
+Warning: Module 1: uselist[12]=lC6QDVlBA8 was not used
+Warning: Module 1: uselist[13]=iZe7 was not used
+Warning: Module 1: uselist[14]=cf9mNerb28ttcXMZ was not used
+Warning: Module 1: uselist[15]=fnmYnLVY70qHkeh was not used
+467: 8467
+468: 3000 Error: Illegal module operand ; treated as module=0
+469: 9000 Error: Illegal module operand ; treated as module=0
+470: 6000 Error: e0 is not defined; zero used
+471: 8000 Error: Illegal module operand ; treated as module=0
+472: 2000 Error: pAF is not defined; zero used
+473: 3120
+474: 0335
+475: 3000 Error: pAF is not defined; zero used
+476: 6000 Error: rWZ is not defined; zero used
+Warning: Module 2: uselist[0]=fbA4d was not used
+Warning: Module 2: uselist[2]=yRNV5Oxy7L1feS was not used
+Warning: Module 2: uselist[4]=dqh8tkv6 was not used
+Warning: Module 2: uselist[6]=nk was not used
+Warning: Module 2: uselist[7]=t4ibWS6 was not used
+Warning: Module 2: uselist[8]=oTMLBAqXh was not used
+477: 7000 Error: Illegal module operand ; treated as module=0
+478: 0016
+479: 2479
+480: 5213
+481: 9482
+482: 3467
+483: 4182
+484: 4478
+485: 5000 Error: Illegal module operand ; treated as module=0
+486: 0487
+487: 6356
+Warning: Module 3: uselist[0]=lZoPPj was not used
+Warning: Module 3: uselist[1]=io was not used
+Warning: Module 3: uselist[2]=xMgBn0WvY69 was not used
+488: 3496
+489: 9139
+490: 7492
+491: 0000 Error: sgVLH4qBcMjWv2ne is not defined; zero used
+492: 0000 Error: y27vpuLlX6u is not defined; zero used
+493: 8433
+494: 6000 Error: Illegal module operand ; treated as module=0
+495: 6497
+496: 4414
+497: 7360
+498: 0164
+499: 8000 Error: Illegal module operand ; treated as module=0
+500: 3489
+501: 2000 Error: sgVLH4qBcMjWv2ne is not defined; zero used
+502: 3000 Error: xM1lTzcGN is not defined; zero used
+503: 4000 Error: y27vpuLlX6u is not defined; zero used
+504: 6000 Error: y27vpuLlX6u is not defined; zero used
+505: 7431
+506: 1000 Error: sgVLH4qBcMjWv2ne is not defined; zero used
+507: 0015
+508: 0179
+509: 9496
+510: 4000 Error: sgVLH4qBcMjWv2ne is not defined; zero used
+
+Warning: Module 0: l8I8WC was defined but never used
+Warning: Module 0: i8UnbY1sgt7uH was defined but never used
+Warning: Module 0: qfDIRSJDr was defined but never used
+Warning: Module 0: kVW3eoK was defined but never used
+Warning: Module 0: xBqZfNb3 was defined but never used
+Warning: Module 0: sJaTIMiHRvsGod was defined but never used
+Warning: Module 0: lKnhO26tz3 was defined but never used
+Warning: Module 0: dbjl15Nmgi was defined but never used
+Warning: Module 0: lmEUobZp was defined but never used
+Warning: Module 0: xAZix was defined but never used
+Warning: Module 0: x0xSkEFlANqW3G6d was defined but never used
+Warning: Module 0: rkgbWHWuUOpGN was defined but never used
+Warning: Module 0: ygcCxSLdyE was defined but never used
+Warning: Module 1: ej8V92q was defined but never used
+Warning: Module 1: tsqr72bHOTViZ0 was defined but never used
+Warning: Module 1: ne2KbZ0JGsGSJSko was defined but never used
+Warning: Module 1: dWEZ was defined but never used
+Warning: Module 2: mEeme0sJgQlzK was defined but never used
+Warning: Module 2: w was defined but never used
+Warning: Module 2: hiz was defined but never used
+Warning: Module 2: w6JwFUBxF was defined but never used
+Warning: Module 2: d9gik was defined but never used
+Warning: Module 2: imfXoCd was defined but never used
+Warning: Module 2: dKiXTXUvoLl was defined but never used
+Warning: Module 4: gCUkDaCj was defined but never used
+Warning: Module 4: zQoBMqATui38Z was defined but never used
+Warning: Module 4: qoxJ was defined but never used
+Warning: Module 4: ttPa was defined but never used
+Warning: Module 4: uwebjT4RT was defined but never used
+Warning: Module 4: kxAnq was defined but never used
+Warning: Module 4: pa was defined but never used
+Warning: Module 4: i was defined but never used
+Warning: Module 4: pFnk was defined but never used
+Warning: Module 4: nuODRpLbBVzQ was defined but never used
+Warning: Module 4: la4yKsQq was defined but never used
+Warning: Module 4: up4R3V was defined but never used
+Warning: Module 4: fZz8 was defined but never used
+Warning: Module 4: t was defined but never used
+Warning: Module 4: aVoT9mmQr748zX was defined but never used
+
+Summary: Errors=206 Warnings=61

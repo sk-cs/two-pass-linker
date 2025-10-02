@@ -1,0 +1,4 @@
+10-17-88-34.dynapool.wireless.nyu.edu
+rm -f linker
+rm -rf *.dSYM
+g++ -g -Wall -Wextra -O0 -o linker linker.cpp
